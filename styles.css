@@ -1,0 +1,49 @@
+h1, h2  {
+    color: rgb(128, 0, 17); 
+    font-size: 96px; 
+    margin-top:10px; 
+    margin-bottom: 20px; 
+    margin-left:50px;
+    margin-right:50px;
+    border: 20px solid black;
+    padding-left:5px;
+}
+
+img{
+    height: 320px; 
+    /* width:200px;  */
+}
+em{
+    text-transform: uppercase; 
+    font-style: initial; 
+}
+#first{
+    text-align:left; 
+/* }
+#second{
+    text-align:right;
+} */
+}
+.right{
+    text-align:right;
+}
+
+.tacos {
+    color:seagreen;
+}
+
+/* body{
+    background-color:blue; 
+} */
+.big{
+    font-size:32px;
+}
+
+p.tacos .big {
+    font-size: 48px; 
+}
+
+p {
+    text-align: center; 
+    font-family: helvetica;
+}

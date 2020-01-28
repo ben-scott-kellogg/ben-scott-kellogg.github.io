@@ -1,0 +1,39 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+h1  {
+    color: black;
+    font-size: 60px;
+    font-weight: 200; 
+    margin-top:5px; 
+    margin-bottom: 5px; 
+    margin-left:50px;
+    margin-right:50px;
+    text-align: center;
+}
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(Saigon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    text-align: center; 
+    margin-top:5px;
+}
+
+img{
+    height: 400px;
+}
+
+.table-image {
+    td, th {
+      vertical-align: middle;
+    }
+
+.underline{
+    text-decoration: underline;
+}
+.rotate90{
+    transform: rotate(90deg);
+}
